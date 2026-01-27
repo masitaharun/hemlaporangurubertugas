@@ -1,0 +1,5 @@
+{
+  "name": "E-Laporan Guru Bertugas SKBE",
+  "description": "A professional web application for SK Bandar Endau teachers to generate and manage daily duty reports in PDF format.",
+  "requestFramePermissions": []
+}
